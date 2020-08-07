@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gssbruno/coworker.git"
+  },
   "directories": {
     "test": "test"
   },
